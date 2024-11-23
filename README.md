@@ -23,7 +23,7 @@ This project is licensed under the **Apache License 2.0**. See the [LICENSE](./L
 
 ## Copyright
 
-© 2024 **[Your Name]**  
+© 2024 **GhosttedXV(ghosttedcodm_)**  
 Parts of this project are inspired by the **Blue Archive** game, developed by **Nexon**.
 
 ---
