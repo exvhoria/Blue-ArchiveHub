@@ -1,6 +1,6 @@
 # ArchiveHub (Blue ArchiveHub)
 
-![ArchiveHub Banner](path/to/banner-image.png)
+![ArchiveHub Banner](Coming_Soon.png)
 
 ## Coming Soon!
 
